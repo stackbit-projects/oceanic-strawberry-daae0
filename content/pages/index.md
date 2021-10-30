@@ -4,9 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: >-
-      Beyond E-Commerce ist der First Responder für Analysen und Strategien, für
-      Trends und Entwicklungen im digitalen Handel
+    title: So So Agentur
     content: >
       ##### Umsetzen von Projekten, Führen von Bewegungen, Anstoßen von
       Veränderung, Entwicklung neuer Produkte – alles ist getrieben von
