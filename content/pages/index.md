@@ -8,28 +8,28 @@ sections:
       Beyond E-Commerce ist der First Responder für Analysen und Strategien, für
       Trends und Entwicklungen im digitalen Handel
     content: >
-      Umsetzen von Projekten, Führen von Bewegungen, Anstoßen von Veränderung,
-      Entwicklung neuer Produkte – alles ist getrieben von Entscheidern im
-      E-Commerce.
+      ###### Umsetzen von Projekten, Führen von Bewegungen, Anstoßen von
+      Veränderung, Entwicklung neuer Produkte – alles ist getrieben von
+      Entscheidern im E-Commerce.
 
 
-      Wenn Du einer von ihnen bist, dann helfen wir Dir und Deinem Team bei den
-      umfangreichen Herausforderungen und Chancen.  Wir begleiten Dich als
-      Sparringspartner, vielleicht als Katalysator, vielleicht als Generator
+      ###### Wenn Du einer von ihnen bist, dann helfen wir Dir und Deinem Team
+      bei den umfangreichen Herausforderungen und Chancen.  Wir begleiten Dich
+      als Sparringspartner, vielleicht als Katalysator, vielleicht als Generator
       (manchmal auch als alles zusammen!). Wir sind dabei um das Projekt auf
       einer ganz anderen Ebene zu meistern.
 
 
-      #### Ob es eine offene Frage ist, oder ein ganzer Katalog, ob es ein Thema
-      ist, oder eine komplexe Themenwelt – wir stehen an Deiner Seite und lenken
-      den Blick auf Details oder richten den Fokus auf monumentale Ziele in der
-      Zukunft die im Detail untergehen. 
+      ###### Ob es eine offene Frage ist, oder ein ganzer Katalog, ob es ein
+      Thema ist, oder eine komplexe Themenwelt – wir stehen an Deiner Seite und
+      lenken den Blick auf Details oder richten den Fokus auf monumentale Ziele
+      in der Zukunft die im Detail untergehen.
 
 
-      #### Wir arbeiten mit Dir und für Dich. 
+      ###### Wir arbeiten mit Dir und für Dich.
 
 
-      [Let's talk](/contact/).
+      ###### [Let's talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
